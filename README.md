@@ -1,1 +1,3 @@
 # CSE-4502-Projects
+
+Contains the google colab notebooks of the projects done in CSE-4502 (Big Data Anylsis). These include ...
